@@ -23,11 +23,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-![Jaime's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaimeRosalesHTML&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaimerosales2005)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosalesjaime000@gmail.com)
