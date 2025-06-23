@@ -1,11 +1,5 @@
-<h1 align="center">Hi, I'm Jaime Rosales 👋</h1>
-<h3 align="center">Computer Science Student | Web Developer | Tech Enthusiast</h3>
-
----
-
 ## 🐣 About Me
-
-- 🎓 Currently studying CS at Griffith College
+Currently studying CS at Griffith College
 
 ---
 
