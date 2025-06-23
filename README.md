@@ -37,6 +37,4 @@
 
 ![snake gif](https://github.com/JaimeRosalesHTML/JaimeRosalesHTML/blob/output/github-contribution-grid-snake.svg)
 
----
 
-_Built with ❤️ using Next.js, TailwindCSS, and Framer Motion_
