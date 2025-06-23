@@ -1,5 +1,5 @@
-## 🐣 About Me
-Currently studying CS at Griffith College
+## ⚡ About Me
+🌱 Currently studying CS at Griffith College
 
 ---
 
